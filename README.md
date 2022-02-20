@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kiptook2020
-- 👀 I’m interested in Java,Javascript,python ,HTML, MYSQL, CODENIGHTER Frameworks,Php, C#
-- 🌱 I’m currently learning Kotlin, Flutter, Laravel
+- 👀 I’m interested in Java, Javascript, python, MYSQL, PostgreSQL and CodeIgniter PHP Framework.
+- 🌱 I’m currently learning  Laravel PHP Framework.
 - 💞️ I’m looking to collaborate on Web Apps and commercial application
 - 📫 How to reach me: emails kiptook2020@gmail.com/ joshua.rotich95@gmail.com Whatsapp+254721845120
 
